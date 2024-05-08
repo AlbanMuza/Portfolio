@@ -23,6 +23,14 @@ function Experience() {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience_details-icon'/>
               <div>
+                <h4>KendoUI</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience_details-icon'/>
+              <div>
                 <h4>CSS</h4>
                 <small className='text-light'>Intermediate</small>
               </div>
@@ -68,10 +76,20 @@ function Experience() {
           <article className='experience__details'>
               <BsFillPatchCheckFill className='experience_details-icon'/>
               <div>
-                <h4>PHP</h4>
+                <h4>C#</h4>
                 <small className='text-light'>Experienced</small>
               </div>
             </article>
+
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience_details-icon'/>
+              <div>
+                <h4>JavaScript</h4>
+                <small className='text-light'>Experienced</small>
+              </div>
+            </article>
+
+            
 
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience_details-icon'/>
